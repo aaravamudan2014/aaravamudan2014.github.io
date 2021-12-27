@@ -23,8 +23,7 @@ Finally, I am also working in conjunction with the mechanical engineering depart
 
 In layman's terms, a Stochastic point processes is used to model events on an axis. We just happen to focus on the time axis (Temporal Stochastci Point Process). The realm (in literature) of stochastic temporal point processes is quite vast and has seen decades of incremental yet seminal works in the area. To this end, our group focuses on several aspects of these processes. My Masters thesis explored the use of survival processes (temporal point processes with single realizations) for the spread of information. Lately we have been exploring improvements on this model by considering a split-population setting wherein individual users do not necessarily participate in a cascade. 
 
-Of late, our group has been looking into Hawkes processes and their moments for effective online learning. Additionally, under the context of Hawkes processes, we attempt to evaluate useful metrics for the determinance of causality.
-
+Of late, our group has been looking into Hawkes processes and their moments for effective online learning. Additionally, under the context of Hawkes processes, we attempt to evaluate useful metrics for the determinance of causality (in the granger sense).
 
 ## Super-resolution
 
